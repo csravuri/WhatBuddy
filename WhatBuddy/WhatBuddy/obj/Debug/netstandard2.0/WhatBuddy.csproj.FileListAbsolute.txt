@@ -1,0 +1,12 @@
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\bin\Debug\netstandard2.0\WhatBuddy.deps.json
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\bin\Debug\netstandard2.0\WhatBuddy.dll
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\bin\Debug\netstandard2.0\WhatBuddy.pdb
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\WhatBuddy.csprojAssemblyReference.cache
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\WhatBuddy.csproj.CoreCompileInputs.cache
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\WhatBuddy.AssemblyInfoInputs.cache
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\WhatBuddy.AssemblyInfo.cs
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\WhatBuddy.dll
+D:\Applications\xamarin\WhatBuddy\WhatBuddy\WhatBuddy\obj\Debug\netstandard2.0\WhatBuddy.pdb
